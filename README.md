@@ -1,2 +1,2 @@
 # hello-world
-Demo app
+The Hello World app for the demo.
